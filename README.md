@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mickey12345sith
-- 👀 I’m interested in ...ur mom
+- 👋 Hi, I’m Mickey
+- 👀 I’m interested in ...web scrapping/ minecraft plugins
 - 🌱 I’m currently learning ...python/java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mickey#100 on discord
